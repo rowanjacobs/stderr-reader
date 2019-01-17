@@ -1,4 +1,4 @@
-==stderr-reader==
+## stderr-reader
 
 Extraordinarily quick and dirty CLI for reading Ginkgo/Gomega outputs such as
 this:
